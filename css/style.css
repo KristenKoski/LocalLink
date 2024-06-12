@@ -1,0 +1,73 @@
+#navbarText{
+    justify-content: end;
+}
+
+body{
+    background-color: #F9F6F0;
+}
+
+li{
+   
+    font-family: 'Inter';font-size: 25px;
+    color: #323E6F;
+    padding-right: 70px;
+}
+
+.navbar-brand{
+    font-family: 'Inter';font-size: 25px;
+    padding-left: 70px;
+    color: #323E6F;
+}
+
+h1{
+    font-family:'Inter';font-size: 40px; 
+    color: #323E6F;
+    padding-top: 25px;
+
+}
+
+
+h3{
+    color:#323E6F;
+}
+
+p{
+    font-family:'Inter';font-size: 30px;
+    color: #323E6F;
+    max-width: 400px;
+}
+
+.row{
+    display: flex;
+    padding-left: 150px;
+    padding-bottom: 50px;
+}
+
+.column{
+    flex: 50%;
+    
+}
+
+#mockupimg{
+   padding-top: 100px;
+   padding-left: 100px;
+}
+
+#image1{
+    padding-top: 120px;
+
+}
+
+.coachingimg1{
+    display: grid;
+    place-items: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.coachingimg2{
+    display: grid;
+    place-items: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
